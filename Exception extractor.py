@@ -2,6 +2,7 @@ import re
 import os
 import mmap
 
+#added comment to check update in github
 os.chdir("C:\\py\\")
 
 # get the directory where the logs are located
